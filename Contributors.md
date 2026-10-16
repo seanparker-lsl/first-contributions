@@ -8,6 +8,7 @@ i-[Adeia](https://github.com/AdeiaSaif/)
 [Yash]will become great
 rohithravindran
 -I am Mohit [https://github.com/mohitqx/first-contributions.git] "this is my first contribution"
+Sean.Parker
 [Tanvi](https://github.com/tanvisingh20073004-star)
 - [Mayuri Patil](https://github.com/mayuripatil-dev)
 -[Pabitra](https://github.com/Pabitraojha)
